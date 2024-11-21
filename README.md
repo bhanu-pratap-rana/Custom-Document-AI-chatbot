@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a comprehensive document processing system with OCR capabilities, vector search, and an AI-powered chatbot interface.
+The dataset is text image based in which you want to perform OCR, I used my personal dataset.
 
 ## Features
 - Document OCR and text extraction
